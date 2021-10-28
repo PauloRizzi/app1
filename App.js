@@ -26,7 +26,8 @@ export default function App() {
       onPress={()=>{}} title="Learn More" 
       accessibilityLabel="Learn more about this purple button" style={styles.botao} > Entrar </TouchableOpacity>
       
-    
+      <Text style={styles.texto}> Desenvolvido por: PH Produções </Text>
+    alooouuajbfakljbfjkla
 
     </View>
 
@@ -72,11 +73,18 @@ const styles = StyleSheet.create({
     justifyContent: 'center',
     // coloca no meio de baixo pra cima
     borderRadius: 10 ,
-
-
-
-
    },
+    
+
+    texto:{
+      justifyContent: 'stretch',
+      color: '#000'
+
+
+    
+
+
+         },
 
 
 
