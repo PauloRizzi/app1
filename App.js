@@ -27,7 +27,7 @@ export default function App() {
       accessibilityLabel="Learn more about this purple button" style={styles.botao} > Entrar </TouchableOpacity>
       
       <Text style={styles.texto}> Desenvolvido por: PH Produções </Text>
-    faefe
+    PAULO HENRIQUE
 
     </View>
 
